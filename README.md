@@ -1,2 +1,2 @@
 # Chat-App
-A web based chat application created using Socket.io and MongoDB
+A web based chat application where people can chat, created using Socket.io and MongoDB
